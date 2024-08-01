@@ -1,0 +1,2 @@
+# LM-KBC2024
+For LM-KBC Challenge @ISWC 2024
