@@ -1,0 +1,378 @@
+{"SubjectEntity": "honorary doctor of Stockholm University", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q18391", "Q8023", "Q43033", "Q184746", "Q32732", "Q1254", "Q23685", "Q188214", "Q36740", "Q211239", "Q131152", "Q188620", "Q46795", "Q43969", "Q11665", "Q29230", "Q76", "Q43179", "Q104622", "Q41617", "Q46809", "Q57311", "Q1187542", "Q22007112", "Q56434717"]}
+{"SubjectEntity": "Grammy Award for Best Rock Album", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q202937", "Q6289039", "Q1347072", "Q455723", "Q28530004", "Q5108148", "Q6681105"]}
+{"SubjectEntity": "honorary doctor of the Yale University", "Relation": "awardWonBy", "ObjectEntitiesID": []}
+{"SubjectEntity": "Order of the Aztec Eagle", "Relation": "awardWonBy", "ObjectEntitiesID": []}
+{"SubjectEntity": "AAAI Fellow", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q204815", "Q92823", "Q92894"]}
+{"SubjectEntity": "Sakharov Prize", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q8023", "Q597875", "Q36740", "Q32732", "Q1187542", "Q22007112", "Q19957710", "Q4967771"]}
+{"SubjectEntity": "Presidential Medal of Freedom", "Relation": "awardWonBy", "ObjectEntitiesID": []}
+{"SubjectEntity": "Turing Award", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q62861", "Q17457", "Q62898", "Q9602", "Q16080922", "Q11609", "Q92957"]}
+{"SubjectEntity": "F\u00e9lix Houphou\u00ebt-Boigny Peace Prize", "Relation": "awardWonBy", "ObjectEntitiesID": ["Q8023", "Q151813", "Q34060", "Q57410", "Q34211", "Q19943", "Q23685", "Q202443", "Q250834", "Q2338828", "Q215351", "Q2005240", "Q52183", "Q368920", "Q188214", "Q11509", "Q44726", "Q605675", "Q106963", "Q29230", "Q37181", "Q157", "Q20192160", "Q50365049", "Q567"]}
+{"SubjectEntity": "American Library Association Honorary Membership", "Relation": "awardWonBy", "ObjectEntitiesID": []}
+{"SubjectEntity": "Bharti Airtel", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q171240"]}
+{"SubjectEntity": "RPS Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q171240", "Q936563"]}
+{"SubjectEntity": "United Wire Factories Co.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q2006583"]}
+{"SubjectEntity": "Onex Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q818723"]}
+{"SubjectEntity": "ekoka", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Cylon Controls Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q7671764"]}
+{"SubjectEntity": "The Home Depot", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059", "Q13677"]}
+{"SubjectEntity": "Italia Independent Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Masaryk Station Development", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "DuPont", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "Bisichi Mining", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q171240"]}
+{"SubjectEntity": "ABC-Mart", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "airBaltic", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Savencia Fromage & Dairy", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "WINOX HOLDINGS LIMITED", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Tatra Asset Management, spr\u00e1v. spol., a.s., PrivateDeposit Fund o.p.f.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1752646", "Q74603"]}
+{"SubjectEntity": "Sterbekasse Evangelischer Freikirchen", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "2 Entertain", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Nordfrost", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Hexion", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Porsche Automobil Holding SE", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q151139"]}
+{"SubjectEntity": "Malaysia Airlines", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Imperial Hotel", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Global Strategic Group Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q496672"]}
+{"SubjectEntity": "DIC Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "WildBrain", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q818723"]}
+{"SubjectEntity": "Kader", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Ugo M\u00e9dia", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q936563", "Q2385849"]}
+{"SubjectEntity": "Leclanch\u00e9", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "FujiGen", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Qype", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Life Insurance Corporation of India", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q638740"]}
+{"SubjectEntity": "Shochiku", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Silver Pictures", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "N.S.C. s. r. o.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Aisin Seiki", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Infosys", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677", "Q638740"]}
+{"SubjectEntity": "Calpine", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Skycity Entertainment Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Medtronic plc", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "Gebr\u00fcder Sp\u00e4th", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Arduino", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Toei Animation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Delta-galil Industries Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1507974", "Q82059"]}
+{"SubjectEntity": "47 Street", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "KAM HING INTERNATIONAL HOLDINGS LIMITED", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q496672"]}
+{"SubjectEntity": "Dolby", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "Aguas Sol\u00e1n de Cabras, S.A.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q617426", "Q4202960"]}
+{"SubjectEntity": "WILL,Co.,Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "NATURTEP", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q732670"]}
+{"SubjectEntity": "Huta Bankowa", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Edison International", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "KON\u010cAR Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q140388"]}
+{"SubjectEntity": "Londonderry and Enniskillen Railway", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Nike", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "BDO", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1752646"]}
+{"SubjectEntity": "Comindico", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "DRDGOLD Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "J. C. Penney", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "XIBEI BEARING CO.,LTD.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "B\u011blehradsk\u00e1 Invest", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1752646", "Q698535"]}
+{"SubjectEntity": "Celldex Therapeutics", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059", "Q13677"]}
+{"SubjectEntity": "AvalonBay Communities", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "Leonardo", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Instant Factoring IFN", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1019992"]}
+{"SubjectEntity": "Daibiru Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Nortuno", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "CHINA WATER INDUSTRY GROUP LIMITED", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q496672"]}
+{"SubjectEntity": "RetailMeNot", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Time Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Bank of Communications", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q496672", "Q739514"]}
+{"SubjectEntity": "Questerre Energy", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q818723", "Q909158"]}
+{"SubjectEntity": "Kronospan CR", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q59551"]}
+{"SubjectEntity": "Dwyer Brothers Stable", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "IBOS", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059", "Q13677"]}
+{"SubjectEntity": "FirstBank Holding Co", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Kajima Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475", "Q909158"]}
+{"SubjectEntity": "Toho", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q217475"]}
+{"SubjectEntity": "Ashot - Ashkelon Industries Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1507974"]}
+{"SubjectEntity": "Kintetsu Real Estate", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Automatic Data Processing", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059"]}
+{"SubjectEntity": "Bayu Buana", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1661737"]}
+{"SubjectEntity": "Nordic Investment Bank", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Baidu", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q496672"]}
+{"SubjectEntity": "Solar Meclov", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Lotte Chemical Titan", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1661737"]}
+{"SubjectEntity": "Reddit Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059", "Q13677"]}
+{"SubjectEntity": "Lear Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677", "Q82059"]}
+{"SubjectEntity": "Southwest Airlines", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "McAfee, LLC", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q82059"]}
+{"SubjectEntity": "Uber", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "Enel Generaci\u00f3n Chile", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Stadtwerke Greifswald", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "P\u0161trossova 24", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Orbis", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Mercedes-Benz Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": []}
+{"SubjectEntity": "Harte", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q732670", "Q627019"]}
+{"SubjectEntity": "Hilton Grand Vacations", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q13677"]}
+{"SubjectEntity": "\u010cEZ Group", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1752646", "Q59551", "Q151139"]}
+{"SubjectEntity": "Asuransi Ramayana", "Relation": "companyTradesAtStockExchange", "ObjectEntitiesID": ["Q1661737"]}
+{"SubjectEntity": "Ethiopia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q986", "Q977", "Q1045", "Q114", "Q958", "Q1049"]}
+{"SubjectEntity": "Russia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q20", "Q33", "Q191", "Q211", "Q37", "Q36", "Q184", "Q227", "Q232", "Q148", "Q711", "Q423"]}
+{"SubjectEntity": "Bangladesh", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q668", "Q836", "Q837", "Q917", "Q148"]}
+{"SubjectEntity": "Uruguay", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q414", "Q155"]}
+{"SubjectEntity": "Namibia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q916", "Q963", "Q258", "Q953"]}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Burkina Faso", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q962", "Q1008", "Q117", "Q912", "Q1032", "Q945"]}
+{"SubjectEntity": "Central African Republic", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1009", "Q657", "Q1049", "Q958", "Q974", "Q971"]}
+{"SubjectEntity": "Malta", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "The Gambia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1041"]}
+{"SubjectEntity": "Belarus", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q211", "Q37", "Q36", "Q159"]}
+{"SubjectEntity": "Maldives", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Lesotho", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q258"]}
+{"SubjectEntity": "Greece", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q222", "Q221", "Q219", "Q43"]}
+{"SubjectEntity": "Andorra", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q29", "Q142"]}
+{"SubjectEntity": "Marshall Islands", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Barbados", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Romania", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q219", "Q28"]}
+{"SubjectEntity": "Brunei", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q833"]}
+{"SubjectEntity": "Eritrea", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q115", "Q1049", "Q977"]}
+{"SubjectEntity": "Mongolia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q159", "Q148"]}
+{"SubjectEntity": "Latvia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q37", "Q191", "Q159", "Q184"]}
+{"SubjectEntity": "Samoa", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Malawi", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q953", "Q924", "Q1029"]}
+{"SubjectEntity": "Djibouti", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q986", "Q115", "Q1045"]}
+{"SubjectEntity": "Tuvalu", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q142"]}
+{"SubjectEntity": "Equatorial Guinea", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1009", "Q1000"]}
+{"SubjectEntity": "Panama", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q800", "Q739"]}
+{"SubjectEntity": "Oman", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q851", "Q878", "Q805"]}
+{"SubjectEntity": "North Korea", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q148", "Q159", "Q884"]}
+{"SubjectEntity": "Solomon Islands", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Gabon", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1009", "Q971"]}
+{"SubjectEntity": "Eswatini", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1029", "Q258"]}
+{"SubjectEntity": "Comoros", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Venezuela", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q739", "Q155", "Q734"]}
+{"SubjectEntity": "Guinea-Bissau", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1041", "Q1006"]}
+{"SubjectEntity": "East Timor", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q252"]}
+{"SubjectEntity": "Serbia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q219", "Q224", "Q28", "Q236", "Q221", "Q218"]}
+{"SubjectEntity": "Albania", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q236", "Q1246", "Q221", "Q41"]}
+{"SubjectEntity": "Dominican Republic", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Armenia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q227", "Q794", "Q43"]}
+{"SubjectEntity": "Cambodia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q869", "Q819", "Q881"]}
+{"SubjectEntity": "Tonga", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q712", "Q683", "Q686"]}
+{"SubjectEntity": "Palestine", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q801", "Q810", "Q79"]}
+{"SubjectEntity": "Tunisia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Mexico", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q30", "Q774"]}
+{"SubjectEntity": "Australia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Bahamas", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Iraq", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q794", "Q851", "Q858", "Q43", "Q810"]}
+{"SubjectEntity": "Philippines", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q148", "Q252", "Q833", "Q865", "Q881"]}
+{"SubjectEntity": "Dominica", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Guyana", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q155", "Q717"]}
+{"SubjectEntity": "Vanuatu", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Bosnia and Herzegovina", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q224", "Q236"]}
+{"SubjectEntity": "Turkey", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q399", "Q229", "Q227", "Q794", "Q858", "Q796", "Q41", "Q219"]}
+{"SubjectEntity": "Bhutan", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q148", "Q668"]}
+{"SubjectEntity": "Mauritania", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q262", "Q912", "Q1041"]}
+{"SubjectEntity": "Norway", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q34", "Q33", "Q159"]}
+{"SubjectEntity": "South Ossetia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Croatia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q215", "Q28", "Q236"]}
+{"SubjectEntity": "Poland", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q183", "Q213", "Q214", "Q184", "Q37", "Q159"]}
+{"SubjectEntity": "Turkmenistan", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q265", "Q232", "Q889", "Q794"]}
+{"SubjectEntity": "Malaysia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q921", "Q252", "Q869"]}
+{"SubjectEntity": "Nepal", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q148", "Q668", "Q917"]}
+{"SubjectEntity": "Saint Pierre and Miquelon", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q16"]}
+{"SubjectEntity": "Saint Lucia", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": []}
+{"SubjectEntity": "Cape Verde", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q1025", "Q1041"]}
+{"SubjectEntity": "Jordan", "Relation": "countryLandBordersCountry", "ObjectEntitiesID": ["Q858", "Q796", "Q851", "Q801"]}
+{"SubjectEntity": "Nerses Bedros XIX Tarmouni", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q3820"]}
+{"SubjectEntity": "Juan Luis Galiardo", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2807"]}
+{"SubjectEntity": "John Hurt", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Joseph L. Goldstein", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2437186"]}
+{"SubjectEntity": "Leonard Susskind", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Tom Brokaw", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Pavel Lebeshev", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q649"]}
+{"SubjectEntity": "Kari Aronpuro", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Sathamangalam Ranga Iyengar Srinivasa Varadhan", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1352"]}
+{"SubjectEntity": "Toshihide Maskawa", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q34600"]}
+{"SubjectEntity": "Adrien Zeller", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Christoph Eschenbach", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Erich Bethe", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Hubert Burda", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Evi Nemeth", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Augusto Fantozzi", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q220"]}
+{"SubjectEntity": "Mansur \u015eihapof", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q900"]}
+{"SubjectEntity": "Larisa Golubkina", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q649"]}
+{"SubjectEntity": "Levon Helm", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Boles\u0142aw Zo\u0144", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q270"]}
+{"SubjectEntity": "Yvonne Blake", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2807"]}
+{"SubjectEntity": "Ursula Krinzinger", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1737"]}
+{"SubjectEntity": "Asaf Durakovi\u0107", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q174224"]}
+{"SubjectEntity": "Bernard Shaw", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q61"]}
+{"SubjectEntity": "Vito Acconci", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q60"]}
+{"SubjectEntity": "Alexandru Repan", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q19660"]}
+{"SubjectEntity": "L\u00e1szl\u00f3 Vit\u00e9zy", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1781"]}
+{"SubjectEntity": "Jerry Lucas", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q6106"]}
+{"SubjectEntity": "Edward Redli\u0144ski", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q270"]}
+{"SubjectEntity": "Maurizio Moreno", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q220"]}
+{"SubjectEntity": "Jes\u00fas L\u00f3pez Cobos", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q64"]}
+{"SubjectEntity": "Jon Elster", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q585"]}
+{"SubjectEntity": "John Mahoney", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1297"]}
+{"SubjectEntity": "Cecily Corti", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1741"]}
+{"SubjectEntity": "Sultan Khan", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1156"]}
+{"SubjectEntity": "Peter Gregg", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q16568"]}
+{"SubjectEntity": "Hennadii Dolzhenko", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1899"]}
+{"SubjectEntity": "Adalberto Giazotto", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q13375"]}
+{"SubjectEntity": "Oleh Panasovskyi", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1686835"]}
+{"SubjectEntity": "Francesc Betriu i Cabeceran", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Vagif Mustafazadeh", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q269"]}
+{"SubjectEntity": "L\u00e1szl\u00f3 Sink\u00f3", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1781"]}
+{"SubjectEntity": "Laurence Decore", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2096"]}
+{"SubjectEntity": "Joseph Brodsky", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Richard Chew", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "V\u00edctor G\u00f3mez Berg\u00e9s", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q34820"]}
+{"SubjectEntity": "Michael Spivak", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q16555"]}
+{"SubjectEntity": "Maria Mazziotti Gillan", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "J. M. Coetzee", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q5112"]}
+{"SubjectEntity": "Chuck Norris", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Terry Harper", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q984155"]}
+{"SubjectEntity": "Pilar Mercedes Mir\u00f3 Romero", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2807"]}
+{"SubjectEntity": "Thomas K\u00f6hler", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q57926"]}
+{"SubjectEntity": "Viktor Ivannikov", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q649"]}
+{"SubjectEntity": "Canali Akbarov", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Norbert Tadeusz", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1718"]}
+{"SubjectEntity": "Anna Oppermann", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q3933"]}
+{"SubjectEntity": "Erkki Ruoslahti", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Nguyen Van Troi", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1854"]}
+{"SubjectEntity": "Erich Schleyer", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1741"]}
+{"SubjectEntity": "Nicolae Martinescu", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q19660"]}
+{"SubjectEntity": "Renate Hellwig", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Valie Export", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Paolo Borsellino", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q2656"]}
+{"SubjectEntity": "Narendra Kohli", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1353"]}
+{"SubjectEntity": "Jean-Marie Gustave Le Cl\u00e9zio", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Svetlana Morgunova", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q649"]}
+{"SubjectEntity": "Reijo Taipale", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Vladimir Sharpatov", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Per Egil Hegge", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q25804"]}
+{"SubjectEntity": "Notker Wolf", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1794"]}
+{"SubjectEntity": "Bob Hewitt", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "James Caan", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q65"]}
+{"SubjectEntity": "Sherko Bekas", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1754"]}
+{"SubjectEntity": "Jack Nicklaus", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q16567"]}
+{"SubjectEntity": "Peter Diamond", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q60"]}
+{"SubjectEntity": "Max Mosley", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q84"]}
+{"SubjectEntity": "Ani Bakalova", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q472"]}
+{"SubjectEntity": "Gogi Kavtaradze", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q994"]}
+{"SubjectEntity": "Ed Van Impe", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Al Jarreau", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q65"]}
+{"SubjectEntity": "Aleksandr Anipkin", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q914"]}
+{"SubjectEntity": "B\u00e9la \u00c9less", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1781"]}
+{"SubjectEntity": "Vitaly Efimov", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Alina Pokrovskaya", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q43070"]}
+{"SubjectEntity": "Natalya Gramolina", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Klaus Zehelein", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Penelope Keith", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Iva Zanicchi", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": []}
+{"SubjectEntity": "Ion Ciocanu", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q21197"]}
+{"SubjectEntity": "Helmut Ruge", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1726"]}
+{"SubjectEntity": "\u00c4zh\u00e4r \u015eakiref", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q900"]}
+{"SubjectEntity": "William C. Chasey", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q16552"]}
+{"SubjectEntity": "Souleymane Ciss\u00e9", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q3703"]}
+{"SubjectEntity": "Mariusz Hermansdorfer", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1799"]}
+{"SubjectEntity": "Mojca Sen\u010dar", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q437"]}
+{"SubjectEntity": "H. R. Giger", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q72"]}
+{"SubjectEntity": "Vaino Vahing", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q13972"]}
+{"SubjectEntity": "Vladimir Vasiliev", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q649"]}
+{"SubjectEntity": "Tabar\u00e9 V\u00e1zquez", "Relation": "personHasCityOfDeath", "ObjectEntitiesID": ["Q1335"]}
+{"SubjectEntity": "Stoked", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["52"]}
+{"SubjectEntity": "Beauty and the Beast", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["70"]}
+{"SubjectEntity": "Moon Embracing the Sun", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["20 (+2 specials)"]}
+{"SubjectEntity": "Life with The Lyons", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["252"]}
+{"SubjectEntity": "L'Amour avec un grand A", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["52"]}
+{"SubjectEntity": "Transporter: The Series", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["24"]}
+{"SubjectEntity": "Pompel og Pilt", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["5"]}
+{"SubjectEntity": "Power Rangers Turbo", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["45"]}
+{"SubjectEntity": "El Caso: Cr\u00f3nica de sucesos", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["13"]}
+{"SubjectEntity": "Taste in Translation", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": []}
+{"SubjectEntity": "Nania Lain Dunia", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["25"]}
+{"SubjectEntity": "Long Way Round", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["7", "10"]}
+{"SubjectEntity": "Zwei M\u00fcnchner in Hamburg", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["37"]}
+{"SubjectEntity": "The Exorcist", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["2"]}
+{"SubjectEntity": "A Hero of Our Time", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["6"]}
+{"SubjectEntity": "Gabby Duran & The Unsittables", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["26"]}
+{"SubjectEntity": "Gadget Man", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["25"]}
+{"SubjectEntity": "Hercai", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["69"]}
+{"SubjectEntity": "Blind", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "Derek", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["14"]}
+{"SubjectEntity": "Timm Thaler", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["26"]}
+{"SubjectEntity": "NASCAR Racers", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["26"]}
+{"SubjectEntity": "Good Luck Charlie", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["4 seasons", "97 episodes"]}
+{"SubjectEntity": "Co-Ed Fever", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["6"]}
+{"SubjectEntity": "The Fresh Beat Band", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["60"]}
+{"SubjectEntity": "Narcos", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["30"]}
+{"SubjectEntity": "Popland!", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["70"]}
+{"SubjectEntity": "Army Wives", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["117"]}
+{"SubjectEntity": "The Other World", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["24"]}
+{"SubjectEntity": "Mandrake", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["13"]}
+{"SubjectEntity": "The Champion", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["288"]}
+{"SubjectEntity": "Adventures of Superman", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["228"]}
+{"SubjectEntity": "Arrow", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["170"]}
+{"SubjectEntity": "Ned's Newt", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["13"]}
+{"SubjectEntity": "Chasing Shadows", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["4"]}
+{"SubjectEntity": "Dads", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["9"]}
+{"SubjectEntity": "Supah Ninjas", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "The Many Loves of Dobie Gillis", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["147"]}
+{"SubjectEntity": "The Dating Guy", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["26"]}
+{"SubjectEntity": "Modern Men", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["7"]}
+{"SubjectEntity": "Life in Cold Blood", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["10"]}
+{"SubjectEntity": "Die Camper", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["117"]}
+{"SubjectEntity": "The World That They Live In", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "Almost Home", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["11"]}
+{"SubjectEntity": "The Ghost & Mrs. Muir", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["50"]}
+{"SubjectEntity": "Power Rangers Beast Morphers", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["55"]}
+{"SubjectEntity": "The Life of Mammals", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["10"]}
+{"SubjectEntity": "It's Okay to Not Be Okay", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "Seijuu Sentai Gingaman", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["50"]}
+{"SubjectEntity": "Los Donatti", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["151"]}
+{"SubjectEntity": "The Flash", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["184"]}
+{"SubjectEntity": "The Lone Gunmen", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["13"]}
+{"SubjectEntity": "Rdat Lwalida", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["60"]}
+{"SubjectEntity": "Pig Goat Banana Cricket", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["40"]}
+{"SubjectEntity": "Car 54, Where Are You?", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["60"]}
+{"SubjectEntity": "Beppinsan", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["151"]}
+{"SubjectEntity": "Strike", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["5"]}
+{"SubjectEntity": "Dark Blue", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["20"]}
+{"SubjectEntity": "El final del camino", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["8"]}
+{"SubjectEntity": "The O.C.", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["92"]}
+{"SubjectEntity": "Kulderzipken", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["20"]}
+{"SubjectEntity": "Alice", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["202"]}
+{"SubjectEntity": "Dirk Gently's Holistic Detective Agency", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["18"]}
+{"SubjectEntity": "Wolf Lake", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["9"]}
+{"SubjectEntity": "Heridas de Amor", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["130"]}
+{"SubjectEntity": "Da Vinci's Inquest", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["91"]}
+{"SubjectEntity": "Babaeng Hampaslupa", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["113"]}
+{"SubjectEntity": "The Paper Chase", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["59"]}
+{"SubjectEntity": "Flower Boy Ramen Shop", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "What the Tudors Did for Us", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["1"]}
+{"SubjectEntity": "TekWar", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["18"]}
+{"SubjectEntity": "E.N.G.", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["96"]}
+{"SubjectEntity": "Another Miss Oh", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["18 + 2"]}
+{"SubjectEntity": "Por arte de magia", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["4"]}
+{"SubjectEntity": "Revenge is mine", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["110"]}
+{"SubjectEntity": "The Andy Griffith Show", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["249"]}
+{"SubjectEntity": "S*M*A*S*H", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["8"]}
+{"SubjectEntity": "Infiniti", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["6"]}
+{"SubjectEntity": "Rodzina zast\u0119pcza", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["329"]}
+{"SubjectEntity": "Riese: Kingdom Falling", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["10"]}
+{"SubjectEntity": "Cielo de Angelina", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["55"]}
+{"SubjectEntity": "Taira no Kiyomori", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["52"]}
+{"SubjectEntity": "Misaeng", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["20"]}
+{"SubjectEntity": "Soul Food", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["112"]}
+{"SubjectEntity": "Rechov Sumsum", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["6"]}
+{"SubjectEntity": "Pacific Station", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["13"]}
+{"SubjectEntity": "Teacher's Pet", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": []}
+{"SubjectEntity": "Full Throttle Girl", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["11"]}
+{"SubjectEntity": "Alien", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["99"]}
+{"SubjectEntity": "Panoptikum m\u011bsta pra\u017esk\u00e9ho", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["10"]}
+{"SubjectEntity": "Zero Degree Turn", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["30"]}
+{"SubjectEntity": "Bruno the Kid", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["36"]}
+{"SubjectEntity": "Unsere Farm in Irland", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": []}
+{"SubjectEntity": "Kikkebakke boligby", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["24"]}
+{"SubjectEntity": "S.O.S.: Sexo y otros secretos", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["26"]}
+{"SubjectEntity": "Superstar Duets", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["16"]}
+{"SubjectEntity": "Amor a mil", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["124"]}
+{"SubjectEntity": "Bolek and Lolek", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["63"]}
+{"SubjectEntity": "House of Lies", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["58"]}
+{"SubjectEntity": "The Walking Dead: World Beyond", "Relation": "seriesHasNumberOfEpisodes", "ObjectEntitiesID": ["10"]}
